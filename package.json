@@ -3,7 +3,7 @@
   "displayName": "fleet-theme",
   "description": "style according to the jetbrains picture",
   "publisher": "MichaelZhou",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.64.0"
   },
