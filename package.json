@@ -1,0 +1,21 @@
+{
+    "name": "fleet-theme",
+    "displayName": "fleet-theme",
+    "description": "style according to the jetbrains picture",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "FleetJetbrain",
+                "uiTheme": "vs-dark",
+                "path": "./themes/FleetJetbrain-color-theme.json"
+            }
+        ]
+    }
+}
