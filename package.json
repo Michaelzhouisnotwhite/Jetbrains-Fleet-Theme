@@ -2,6 +2,7 @@
   "name": "fleet-theme",
   "displayName": "fleet-theme",
   "description": "style according to the jetbrains picture",
+  "publisher": "MichaelZhou",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.64.0"
@@ -21,5 +22,6 @@
   "repository": {
       "type": "git",
       "url": "https://github.com/Michaelzhouisnotwhite/fleet-theme"
-  }
+  },
+  "icon": ".github/icon.png",
 }
