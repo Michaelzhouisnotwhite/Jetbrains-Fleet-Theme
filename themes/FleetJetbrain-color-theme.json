@@ -1792,7 +1792,7 @@
     "editor.selectionBackground": "#163761",
     "editor.inactiveSelectionBackground": "#363636",
     "editorWhitespace.foreground": "#737373",
-    // last
+    
     "editor.selectionHighlightBackground": "#16376170",
     "editor.selectionHighlightBorder": "#d6d6dd00",
     "editor.findMatchBackground": "#15ac9170",
