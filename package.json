@@ -1,7 +1,7 @@
 {
   "name": "fleet-theme",
   "displayName": "fleet-theme",
-  "description": "style according to the jetbrains picture",
+  "description": "A Theme according to the jetbrains screenshot",
   "publisher": "MichaelZhou",
   "version": "0.4.4",
   "engines": {

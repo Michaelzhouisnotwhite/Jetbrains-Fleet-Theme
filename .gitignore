@@ -1,3 +1,5 @@
 node_modules
 *.vsix
 .vscode
+save_pic_from_clipboard.py
+save-pic-settings.json
