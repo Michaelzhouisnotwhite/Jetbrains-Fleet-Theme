@@ -1,7 +1,7 @@
 {
   "name": "fleet-theme",
-  "displayName": "fleet-theme",
-  "description": "A Theme according to the jetbrains screenshot",
+  "displayName": "Jetbrain Fleet",
+  "description": "🚀 A Theme according to the jetbrains screenshot",
   "publisher": "MichaelZhou",
   "version": "0.4.5",
   "engines": {
@@ -13,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "FleetJetbrain",
+        "label": "Jetbrain Fleet",
         "uiTheme": "vs-dark",
         "path": "./themes/FleetJetbrain-color-theme.json"
       }

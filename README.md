@@ -1,8 +1,8 @@
 # FleetJetbrain
 
-This Theme imitates Jetbrain Fleet as much as possible according to the screenshots.
+This Theme imitates Jetbrain Fleet as much as possible according to Fleet screenshots.
 
-![fleet](.github/screenshots02.png)
+<!-- ![fleet](.github/screenshots02.png) -->
 
 ![fleet](.github/screenshots03.png)
 <!-- ![fleet](.github/screenshot01.png) -->
