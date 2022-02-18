@@ -2,8 +2,15 @@
 
 All notable changes to the "fleet-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+<!-- ## [Unreleased] -->
+## [4.6.6] - 2022-02-18
 
-## [Unreleased]
+### Changed
 
-- Initial release
+- changed the ext name to Jetbrain Fleet
+
+## [4.6.5] - 2022-02-17
+
+### Changed
+
+- make the workbench more friendly to eyes
