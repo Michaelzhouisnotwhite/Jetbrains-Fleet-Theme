@@ -1,7 +1,7 @@
 {
-  "name": "fleet-theme",
-  "displayName": "Jetbrain Fleet",
-  "description": "🚀 A Theme according to the jetbrains screenshot",
+  "name": "jetbrains-fleet-theme",
+  "displayName": "Jetbrains Fleet Theme",
+  "description": "🚀 A Theme according to the jetbrains fleet screenshot",
   "publisher": "MichaelZhou",
   "version": "1.0.0",
   "engines": {
@@ -13,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Jetbrain Fleet",
+        "label": "Jetbrains Fleet",
         "uiTheme": "vs-dark",
         "path": "./themes/FleetJetbrain-color-theme.json"
       }
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Michaelzhouisnotwhite/fleet-theme"
+    "url": "https://github.com/Michaelzhouisnotwhite/Jetbrains-Fleet-Theme"
   },
   "icon": ".github/icon.png"
 }

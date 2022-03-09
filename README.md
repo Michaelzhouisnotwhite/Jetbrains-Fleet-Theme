@@ -47,9 +47,13 @@ Install from marketplace <https://marketplace.visualstudio.com/items?itemName=Mi
 
 ![fleet](.github/screenshots03.png)
 
+Screenshot of vue.js
+
 ![gif1](.github/workspace-gif.gif)
 
-![gif](.github/workspace-gif2.gif)
+Screenshot of python
+
+![gif2](.github/workspace-gif2.gif)
 
 **Enjoy!**
 
