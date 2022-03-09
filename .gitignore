@@ -3,3 +3,4 @@ node_modules
 .vscode
 save_pic_from_clipboard.py
 save-pic-settings.json
+token
