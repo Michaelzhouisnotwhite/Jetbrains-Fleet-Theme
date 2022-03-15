@@ -1782,7 +1782,7 @@
     "inputOption.activeBackground": "#de3c72",
     "inputOption.activeBorder": "#d6d6dd00",
     "inputOption.activeForeground": "#d6d6dd",
-    "input.placeholderForeground": "#d6d6dd",
+    "input.placeholderForeground": "#7b7b7b",
     "textLink.foreground": "#228df2",
     "editor.background": "#0c0c0c",
     "editor.foreground": "#d6d6dd",
