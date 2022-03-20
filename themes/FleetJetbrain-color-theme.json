@@ -1890,7 +1890,7 @@
     "scrollbarSlider.hoverBackground": "#676767",
     "scrollbarSlider.activeBackground": "#676767",
     "progressBar.background": "#15ac91",
-    "widget.shadow": "#313131",
+    "widget.shadow": "#04040420",
     "editorWidget.foreground": "#d6d6dd",
     "editorWidget.background": "#1f1e1f",
     "editorWidget.resizeBorder": "#ea7620",
