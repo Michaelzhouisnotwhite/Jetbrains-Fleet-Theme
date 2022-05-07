@@ -1,7 +1,5 @@
 # Change Log
 
-All notable changes to the "fleet-theme" extension will be documented in this file.
-
 <!-- ## [Unreleased] -->
 ## [4.6.6] - 2022-02-18
 
