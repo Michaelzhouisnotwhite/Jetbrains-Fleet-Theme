@@ -2063,7 +2063,7 @@
     "gitDecoration.ignoredResourceForeground": "#666666",
     "gitDecoration.modifiedResourceForeground": "#6897bb",
     "gitDecoration.stageDeletedResourceForeground": "#f14c4c",
-    "gitDecoration.stageModifiedResourceForeground": "#e5b95c",
+    "gitDecoration.stageModifiedResourceForeground": "#6897bb",
     "gitDecoration.submoduleResourceForeground": "#4d9ef5",
     "gitDecoration.untrackedResourceForeground": "#d1675a",
     "editorMarkerNavigation.background": "#2d2d30",
