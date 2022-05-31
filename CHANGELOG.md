@@ -1,6 +1,5 @@
 # Change Log
 
-<!-- ## [Unreleased] -->
 ## [4.6.6] - 2022-02-18
 
 ### Changed
