@@ -1853,6 +1853,7 @@
     }
   ],
   "colors": {
+
     //inlayHints
     "editorInlayHint.foreground": "#838383",
     "editorInlayHint.background":"#2b2b2b",
@@ -1865,16 +1866,18 @@
     // debug terminal
     "selection.background": "#163761",
     "scrollbar.shadow": "#d6d6dd00",
+
     "activityBar.foreground": "#e3e1e3",
-    "activityBar.background": "#2a282a",
+    "activityBar.background": "#292929",
     "activityBar.inactiveForeground": "#999899",
     "activityBarBadge.foreground": "#d6d6dd",
     "activityBarBadge.background": "#228df2",
     "activityBar.border": "#d6d6dd00",
-    "activityBar.activeBackground": "#1f1e1f",
-    "sideBar.background": "#1f1e1f",
+    "activityBar.activeBackground": "#1e1e1e",
+
+    "sideBar.background": "#1e1e1e",
     "sideBar.foreground": "#d6d6dd",
-    "sideBarSectionHeader.background": "#1f1e1f",
+    "sideBarSectionHeader.background": "#1e1e1e",
     "sideBarSectionHeader.foreground": "#d6d6dd",
     "sideBarSectionHeader.border": "#d6d6dd00",
     "sideBarTitle.foreground": "#d6d6dd",
@@ -1906,11 +1909,7 @@
     "statusBar.noFolderBorder": "#d6d6dd00",
     "statusBarItem.remoteBackground": "#5b51ec",
     "statusBarItem.remoteForeground": "#d6d6dd",
-    "titleBar.activeBackground": "#3c3b3c",
-    "titleBar.activeForeground": "#d6d6dd",
-    "titleBar.inactiveBackground": "#3c3b3c",
-    "titleBar.inactiveForeground": "#cccccc99",
-    "titleBar.border": "#d6d6dd00",
+    
     "menubar.selectionForeground": "#d6d6dd",
     "menubar.selectionBackground": "#d6d6dd20",
     "menubar.selectionBorder": "#d6d6dd00",
@@ -2123,6 +2122,16 @@
     "breadcrumb.activeSelectionForeground": "#d6d6dd",
     "editorGutter.commentRangeForeground": "#d6d6dd",
     "debugExceptionWidget.background": "#1d1d1d",
-    "debugExceptionWidget.border": "#313131"
+    "debugExceptionWidget.border": "#313131",
+
+    "commandCenter.background": "#504f51",
+    "commandCenter.foreground": "#c1c1c1",
+    "commandCenter.activeBackground": "#1d1d1d",
+
+    "titleBar.activeBackground": "#3b3b3b",
+    "titleBar.activeForeground": "#d6d6dd",
+    "titleBar.inactiveBackground": "#3c3b3c",
+    "titleBar.inactiveForeground": "#cccccc99",
+    "titleBar.border": "#d6d6dd00",
   }
 }
