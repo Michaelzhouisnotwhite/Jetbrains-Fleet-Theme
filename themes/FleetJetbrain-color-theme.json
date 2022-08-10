@@ -82,7 +82,7 @@
       "name": "entity.name.lifetime.rust",
       "scope": "entity.name.lifetime.rust",
       "settings": {
-        "foreground": "#efb080"
+        "foreground": "#efb080",
       }
     },
     {
