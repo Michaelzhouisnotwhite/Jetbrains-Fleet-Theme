@@ -2100,9 +2100,7 @@
     "icon.foreground": "#d6d6dd",
     "checkbox.background": "#1d1d1d",
     "checkbox.foreground": "#d6d6dd",
-    
-    "checkbox.border": "#4f4f4f",
-    // "checkbox.border": "#d6d6dd00",
+    "checkbox.border": "#d6d6dd00",
     "dropdown.background": "#1d1d1d",
     "dropdown.foreground": "#d6d6dd",
     "dropdown.border": "#d6d6dd00",
