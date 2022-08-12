@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.1.1] - 2022-08-12
+
+### Changed
+
+- Fix the problem that the checkbox cannot be seen clearly in the merge comparison view [#4](https://github.com/Michaelzhouisnotwhite/Jetbrains-Fleet-Theme/issues/4)
+
+
 ## [1.1.0] - 2022-07-09
 
 ### Changed
