@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.3] - 2022-08-17
+
+### Changed
+
+- change the panel color and the terminal background to make more harmonious
+- 
 ## [1.1.1] - 2022-08-12
 
 ### Changed

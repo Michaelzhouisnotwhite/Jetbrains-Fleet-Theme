@@ -1854,6 +1854,7 @@
   ],
   "colors": {
 
+    "terminal.background": "#191919",
     //inlayHints
     "editorInlayHint.foreground": "#838383",
     "editorInlayHint.background":"#2b2b2b",
@@ -1868,11 +1869,11 @@
     "scrollbar.shadow": "#d6d6dd00",
 
     "activityBar.foreground": "#e3e1e3",
-    "activityBar.background": "#292929",
+    "activityBar.background": "#242424",
     "activityBar.inactiveForeground": "#999899",
     "activityBarBadge.foreground": "#d6d6dd",
     "activityBarBadge.background": "#228df2",
-    "activityBar.border": "#d6d6dd00",
+    "activityBar.border": "#0c0c0c",
     "activityBar.activeBackground": "#1e1e1e",
 
     "sideBar.background": "#1e1e1e",
@@ -1991,8 +1992,8 @@
     "diffEditor.removedTextBackground": "#f14c4c30",
     "diffEditor.removedTextBorder": "#d6d6dd00",
     "diffEditor.border": "#313131",
-    "panel.background": "#161516",
-    "panel.border": "#313131",
+    "panel.background": "#242424",
+    "panel.border": "#0c0c0c",
     "panelTitle.activeBorder": "#d6d6dd",
     "panelTitle.activeForeground": "#d6d6dd",
     "panelTitle.inactiveForeground": "#d6d6dd",
