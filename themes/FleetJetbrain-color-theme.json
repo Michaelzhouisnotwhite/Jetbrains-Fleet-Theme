@@ -26,7 +26,7 @@
       "fontStyle": ""
     },
     "function.declaration": {
-      "foreground": "#efefef",
+      "foreground": "#efefef", // white
       "fontStyle": "bold"
     },
     "operatorOverload": "#d1d1d1",
@@ -59,7 +59,13 @@
     "macro": "#a8cc7c",
     "property:cpp": "#af9cff", // purple
     "variable:javascript": "#d1d1d1",
-    "property.declaration": "#af9cff"
+    "property.declaration": "#af9cff",
+    "type:c":"#87c3ff",
+    "function:c":{
+      "foreground": "#efefef",
+      "fontStyle": "bold"
+    },
+    "property:c": "#af9cff"
     // "module": {
     //   ""
     // },
