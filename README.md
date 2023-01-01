@@ -1,9 +1,9 @@
 # JetBrain Fleet Theme for Visual Studio Code
 
-![version](https://vsmarketplacebadge.apphb.com/version/MichaelZhou.fleet-theme.svg)
-![installs](https://vsmarketplacebadge.apphb.com/installs/MichaelZhou.fleet-theme.svg)
-![downloads](https://vsmarketplacebadge.apphb.com/downloads/MichaelZhou.fleet-theme.svg)
-![rating](https://vsmarketplacebadge.apphb.com/rating-star/MichaelZhou.fleet-theme.svg)
+![version](https://vsmarketplacebadges.dev/version/michaelzhou.fleet-theme.svg)
+![installs](https://vsmarketplacebadges.dev/installs/michaelzhou.fleet-theme.svg)
+![downloads](https://vsmarketplacebadges.dev/downloads-short/michaelzhou.fleet-theme.svg)
+![rating](https://vsmarketplacebadges.dev/rating-star/michaelzhou.fleet-theme.svg)
 
 This Theme imitates Jetbrain Fleet as much as possible according to Fleet screenshots.
 
