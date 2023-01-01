@@ -65,7 +65,8 @@
       "foreground": "#efefef",
       "fontStyle": "bold"
     },
-    "property:c": "#af9cff"
+    "property:c": "#af9cff",
+    "function:cmake":"#87c3ff"
     // "module": {
     //   ""
     // },
@@ -1955,13 +1956,13 @@
     "activityBar.inactiveForeground": "#7a797a",
     "activityBarBadge.foreground": "#d6d6dd",
     "activityBarBadge.background": "#228df2",
-    "activityBar.border": "#181818",
+    "activityBar.border": "#383838",
     "activityBar.activeBackground": "#181818",
     "sideBar.background": "#181818",
     "sideBar.foreground": "#d1d1d1",
-    "sideBarSectionHeader.background": "#181818",
+    "sideBarSectionHeader.background": "#18181800",
     "sideBarSectionHeader.foreground": "#d1d1d1",
-    "sideBarSectionHeader.border": "#d1d1d1",
+    "sideBarSectionHeader.border": "#d1d1d100",
     "sideBarTitle.foreground": "#d1d1d1",
     // sidebar border
     "sideBar.border": "#383838",
