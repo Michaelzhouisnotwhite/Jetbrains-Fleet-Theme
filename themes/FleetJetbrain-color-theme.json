@@ -451,7 +451,7 @@
     },
     {
       "name": "js console function",
-      "scope": "entity.name.function,support.function.console",
+      "scope": "entity.name.function.js,support.function.console.js",
       "settings": {
         "foreground": "#ebc88d"
       }
@@ -667,18 +667,18 @@
         "foreground": "#d6d6dd"
       }
     },
-    {
-      "name": "Functions",
-      "scope": [
-        "entity.name.function",
-        "meta.require",
-        "support.function.any-method",
-        "variable.function"
-      ],
-      "settings": {
-        "foreground": "#ebc88d"
-      }
-    },
+    // {
+    //   "name": "Functions",
+    //   "scope": [
+    //     "entity.name.function",
+    //     "meta.require",
+    //     "support.function.any-method",
+    //     "variable.function"
+    //   ],
+    //   "settings": {
+    //     "foreground": "#ebc88d"
+    //   }
+    // },
     {
       "name": "Classes",
       "scope": "entity.name.type.namespace",
