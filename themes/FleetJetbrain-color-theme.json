@@ -14,6 +14,8 @@
       "foreground": "#efb080"
     },
     "class.typeHint": "#82d2ce", // light green blue
+    "variable.declaration.readonly:cpp": "#d1d1d1",
+    "variable.declaration.readonly:c": "#d1d1d1",
     "method.declaration": {
       "foreground": "#efefef",
       "fontStyle": "bold"
