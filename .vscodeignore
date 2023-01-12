@@ -2,6 +2,7 @@
 .vscode-test/*
 .gitignore
 .gitattributes
+.history/
 vsc-extension-quickstart.md
 save_pic_from_clipboard.py
 save-pic-settings.json
