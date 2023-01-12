@@ -3,7 +3,7 @@
   "displayName": "Jetbrains Fleet Theme",
   "description": "🚀 A Theme according to the Jetbrains Fleet screenshot",
   "publisher": "MichaelZhou",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "engines": {
     "vscode": "^1.64.0"
   },
