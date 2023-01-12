@@ -13,6 +13,9 @@
     "variable.defaultLibrary": {
       "foreground": "#efb080"
     },
+    "variable.defaultLibrary.globalScope": {
+      "foreground": "#d1d1d1"
+    },
     "class.typeHint": "#82d2ce", // light green blue
     "variable.declaration.readonly:cpp": "#d1d1d1",
     "variable.declaration.readonly:c": "#d1d1d1",
@@ -22,7 +25,7 @@
       "foreground": "#efefef",
       "fontStyle": "bold"
     },
-    "function.builtin": "#82d2ce", // light green blue
+    "function.builtin": "#82d2ce", // light green blue(cyan)
     "class.builtin": "#82d2ce",
     // "parameter": "#add1de",
     "class.declaration:python": {
@@ -48,7 +51,7 @@
       "fontStyle": ""
     },
     "*.decorator:python": {
-      "foreground": "#a8cc7c", // green
+      "foreground": "#a8cc7c", // green (Lime)
       "fontStyle": ""
     },
     "method:python": {
@@ -59,6 +62,10 @@
       "foreground": "#87c3ff", // blue
       "fontStyle": ""
     },
+    // "method.defaultLibrary:cpp": {
+    //   "foreground": "#efefef",
+    //   "bold": true
+    // },
     "selfParameter": "#cc7c8a", // wine red,
     "macro": "#a8cc7c",
     "property:cpp": "#af9cff", // purple
@@ -149,6 +156,14 @@
       "settings": {
         "foreground": "#efb080"
       }
+    },
+    {
+      "name": "variable.language.this.cpp",
+      "scope":"variable.language.this.cpp",
+      "settings": {
+        "foreground": "#82d2ce",
+        "fontStyle": ""
+      }  
     },
     {
       "name": "storage.modifier.lifetime.rust",
@@ -754,7 +769,14 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#83d6c5"
+        "foreground": "#82d2ce" // light green blue
+      }
+    },
+    {
+      "scope":["storage.modifier.reference", "storage.modifier.pointer"],
+      "settings": {
+        "foreground": "#d1d1d1",
+        "fontStyle": ""
       }
     },
     {
@@ -1141,14 +1163,7 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#d6d6dd"
-      }
-    },
-    {
-      "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
-      "scope": "support.type.property-name.json punctuation",
-      "settings": {
-        "foreground": "#d6d6dd"
+        "foreground": "#82d2ce"
       }
     },
     {
