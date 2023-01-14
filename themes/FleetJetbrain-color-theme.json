@@ -70,14 +70,16 @@
     "macro": "#a8cc7c",
     "property:cpp": "#af9cff", // purple
     "variable:javascript": "#d1d1d1",
-    "property.declaration": "#af9cff",
+    "property.declaration:cpp": "#af9cff",
+    "property.declaration:c": "#af9cff",
     "type:c":"#87c3ff",
     "function:c":{
       "foreground": "#efefef",
       "fontStyle": "bold"
     },
     "property:c": "#af9cff",
-    "function:cmake":"#87c3ff"
+    "function:cmake":"#87c3ff",
+    "builtinConstant.readonly.builtin:python": "#82d2ce"
     // "module": {
     //   ""
     // },
@@ -91,6 +93,13 @@
     // 		  "foreground": ""
     // 	  }
     //   },
+    {
+      "scope":"string.quoted.binary.single.python",
+      "settings": {
+        "foreground": "#a8cc7c",
+        "fontStyle": ""
+      }
+    },
     {
       "scope":["constant.language.false.cpp", "constant.language.true.cpp"],
       "settings": {
@@ -2052,9 +2061,9 @@
     "editorWhitespace.foreground": "#737373",
     "editor.selectionHighlightBackground": "#16376170",
     "editor.selectionHighlightBorder": "#d6d6dd00",
-    "editor.findMatchBackground": "#15ac9170",
-    "editor.findMatchBorder": "#d6d6dd00",
-    "editor.findMatchHighlightBackground": "#7e999250",
+    "editor.findMatchBackground": "#163764",
+    "editor.findMatchBorder": "#00000000",
+    "editor.findMatchHighlightBackground": "#7c511a",
     "editor.findMatchHighlightBorder": "#d7d7dd02",
     "editor.findRangeHighlightBackground": "#1d1d1d",
     "editor.findRangeHighlightBorder": "#d6d6dd00",
