@@ -28,10 +28,8 @@
     "function.builtin": "#82d2ce", // light green blue(cyan)
     "class.builtin": "#82d2ce",
     // "parameter": "#add1de",
-    "class.declaration:python": {
-      "foreground": "#87c3ff", // blue
-      "fontStyle": ""
-    },
+    "class.declaration:python": "#87c3ff", // blue
+    "class.decorator.builtin:python":"#a8cc7c",
     "function.declaration": {
       "foreground": "#efefef", // white
       "fontStyle": "bold"
@@ -40,6 +38,7 @@
     "memberOperatorOverload": "#d1d1d1",
     "namespace:cpp": "#87c3ff",
     "variable.global:cpp": "#a8cc7c",
+    "variable.global:c": "#a8cc7c",
     "type:cpp": "#87c3ff",
     "function": "#ebc88d", // yellow
     "function:cpp": {
