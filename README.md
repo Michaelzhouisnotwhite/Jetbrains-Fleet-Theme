@@ -7,7 +7,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Michaelzhouisnotwhite/jetbrains-fleet-theme?style=social)
 
-This Theme imitates Jetbrain Fleet as much as possible according to Fleet screenshots.
+This Theme imitates Jetbrains Fleet as much as possible according to Fleet screenshots.
 
 ## Syntax Support
 
@@ -41,13 +41,13 @@ Install from marketplace <https://marketplace.visualstudio.com/items?itemName=Mi
 
 ## Screenshots
 
-**The origin screenshot:**
+### The origin screenshot
 
-![origin](.github/screenshots_new1.png)
+![origin](https://github.com/Michaelzhouisnotwhite/Jetbrains-Fleet-Theme/.github/screenshots_new1.png)
 
-**Vscode with Jetbrain Fleet🚀**
+### Vscode with Jetbrains Fleet🚀
 
-![fleet](.github/screenshots_new2.png)
+![fleet](https://github.com/Michaelzhouisnotwhite/Jetbrains-Fleet-Theme/.github/screenshots_new2.png)
 
 <!-- Screenshot of vue.js
 
@@ -59,6 +59,6 @@ Screenshot of python
 
 **Enjoy!**
 
-**NOTE** Thanks to anothor theme [Fleetish](https://github.com/krfl/fleetish-vscode). 
+**NOTE** Thanks to author theme [Fleetish](https://github.com/krfl/fleetish-vscode).
 
 If you have any suggestions, create an issue on <https://github.com/Michaelzhouisnotwhite/fleet-theme>
