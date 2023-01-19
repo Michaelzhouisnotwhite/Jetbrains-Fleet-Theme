@@ -43,11 +43,11 @@ Install from marketplace <https://marketplace.visualstudio.com/items?itemName=Mi
 
 ### The origin screenshot
 
-![origin](https://github.com/Michaelzhouisnotwhite/Jetbrains-Fleet-Theme/.github/screenshots_new1.png)
+![origin](.github/screenshots_new1.png)
 
 ### Vscode with Jetbrains Fleet🚀
 
-![fleet](https://github.com/Michaelzhouisnotwhite/Jetbrains-Fleet-Theme/.github/screenshots_new2.png)
+![fleet](.github/screenshots_new2.png)
 
 <!-- Screenshot of vue.js
 
