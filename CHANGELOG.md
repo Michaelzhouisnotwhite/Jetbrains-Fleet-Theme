@@ -1,17 +1,20 @@
 # Change Log
 
+## [1.2.16] - 2023-01-15
+
+- Make the color more like Jetbrains Fleet.
+
 ## [1.1.3] - 2022-08-17
 
 ### Changed
 
 - change the panel color and the terminal background to make more harmonious
-- 
+  
 ## [1.1.1] - 2022-08-12
 
 ### Changed
 
 - Fix the problem that the checkbox cannot be seen clearly in the merge comparison view [#4](https://github.com/Michaelzhouisnotwhite/Jetbrains-Fleet-Theme/issues/4)
-
 
 ## [1.1.0] - 2022-07-09
 
