@@ -26,7 +26,7 @@
 
 ### Changed
 
-- changed the ext name to Jetbrain Fleet
+- changed the ext name to Jetbrains Fleet
 
 ## [1.0.10] - 2022-02-17
 
