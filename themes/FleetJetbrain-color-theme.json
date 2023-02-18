@@ -6,6 +6,11 @@
     "enumMember": {
       "foreground": "#d6d6dd"
     },
+    "enumMember:cpp": {
+      "foreground": "#af9cff"
+    },"enumMember:c": {
+      "foreground": "#af9cff"
+    },
     "variable.constant": {
       "foreground": "#83d6c5"
       //   "foreground": "#f8c762"
@@ -58,8 +63,8 @@
       "fontStyle": ""
     },
     "method:cpp": {
-      "foreground": "#87c3ff", // blue
-      "fontStyle": ""
+      "foreground": "#efefef", // white
+      "fontStyle": "bold"
     },
     // "method.defaultLibrary:cpp": {
     //   "foreground": "#efefef",
@@ -72,6 +77,8 @@
     "property.declaration:cpp": "#af9cff",
     "property.declaration:c": "#af9cff",
     "type:c":"#87c3ff",
+    "enum:cpp":"#87c3ff",
+    "enum:c":"#87c3ff",
     "function:c":{
       "foreground": "#efefef",
       "fontStyle": "bold"
@@ -722,7 +729,7 @@
     },
     {
       "name": "Classes",
-      "scope": "support.class, entity.name.type.class",
+      "scope": "support.class, entity.name.type.class, entity.name.function.constructor.cpp",
       "settings": {
         "foreground": "#87c3ff"
       }
