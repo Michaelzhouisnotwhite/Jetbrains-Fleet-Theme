@@ -21,6 +21,7 @@
     "variable.defaultLibrary.globalScope": {
       "foreground": "#d1d1d1"
     },
+    "typeParameter:cpp": "#add1de", // blue light
     "class.typeHint": "#82d2ce", // light green blue
     "variable.declaration.readonly:cpp": "#d1d1d1",
     "variable.declaration.readonly:c": "#d1d1d1",
