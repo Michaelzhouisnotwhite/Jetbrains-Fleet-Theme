@@ -1944,6 +1944,18 @@
       }
     },
     {
+      "scope": "entity.name.tag.yaml",
+      "settings": {
+        "foreground": "#82d2ce",
+      }
+    },
+    {
+      "scope": "string.unquoted.plain.out.yaml, constant.language.boolean.yaml",
+      "settings": {
+        "foreground": "#af9cff",
+      }
+    },
+    {
       "name": "punctuation.definition.block.sequence.item.yaml",
       "scope": "punctuation.definition.block.sequence.item.yaml",
       "settings": {
