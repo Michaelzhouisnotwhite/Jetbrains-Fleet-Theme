@@ -1933,7 +1933,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#6d6d6d"
+        "foreground": "#898989"
       }
     },
     {
@@ -1969,6 +1969,7 @@
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
+        "foreground": "#898989",
         "fontStyle": "italic"
       }
     },
