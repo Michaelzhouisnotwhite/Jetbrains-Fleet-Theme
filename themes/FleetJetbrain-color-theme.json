@@ -3,12 +3,14 @@
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
+    "comment": "#898989",
     "enumMember": {
       "foreground": "#d6d6dd"
     },
     "enumMember:cpp": {
       "foreground": "#af9cff"
-    },"enumMember:c": {
+    },
+    "enumMember:c": {
       "foreground": "#af9cff"
     },
     "variable.constant": {
@@ -35,7 +37,7 @@
     "class.builtin": "#82d2ce",
     // "parameter": "#add1de",
     "class.declaration:python": "#87c3ff", // blue
-    "class.decorator.builtin:python":"#a8cc7c",
+    "class.decorator.builtin:python": "#a8cc7c",
     "function.declaration": {
       "foreground": "#efefef", // white
       "fontStyle": "bold"
@@ -77,15 +79,15 @@
     "variable:javascript": "#d1d1d1",
     "property.declaration:cpp": "#af9cff",
     "property.declaration:c": "#af9cff",
-    "type:c":"#87c3ff",
-    "enum:cpp":"#87c3ff",
-    "enum:c":"#87c3ff",
-    "function:c":{
+    "type:c": "#87c3ff",
+    "enum:cpp": "#87c3ff",
+    "enum:c": "#87c3ff",
+    "function:c": {
       "foreground": "#efefef",
       "fontStyle": "bold"
     },
     "property:c": "#af9cff",
-    "function:cmake":"#87c3ff",
+    "function:cmake": "#87c3ff",
     "builtinConstant.readonly.builtin:python": "#82d2ce"
     // "module": {
     //   ""
@@ -101,14 +103,17 @@
     // 	  }
     //   },
     {
-      "scope":"string.quoted.binary.single.python",
+      "scope": "string.quoted.binary.single.python",
       "settings": {
         "foreground": "#a8cc7c",
         "fontStyle": ""
       }
     },
     {
-      "scope":["constant.language.false.cpp", "constant.language.true.cpp"],
+      "scope": [
+        "constant.language.false.cpp",
+        "constant.language.true.cpp"
+      ],
       "settings": {
         "foreground": "#82d2ce",
         "fontStyle": ""
@@ -182,11 +187,11 @@
     },
     {
       "name": "variable.language.this.cpp",
-      "scope":"variable.language.this.cpp",
+      "scope": "variable.language.this.cpp",
       "settings": {
         "foreground": "#82d2ce",
         "fontStyle": ""
-      }  
+      }
     },
     {
       "name": "storage.modifier.lifetime.rust",
@@ -796,7 +801,10 @@
       }
     },
     {
-      "scope":["storage.modifier.reference", "storage.modifier.pointer"],
+      "scope": [
+        "storage.modifier.reference",
+        "storage.modifier.pointer"
+      ],
       "settings": {
         "foreground": "#d1d1d1",
         "fontStyle": ""
@@ -2163,7 +2171,6 @@
     "scrollbarSlider.activeBackground": "#676767",
     "progressBar.background": "#15ac91",
     "widget.shadow": "#111111eb",
-    
     "editorWidget.foreground": "#d6d6dd",
     "editorWidget.background": "#292929",
     "editorWidget.resizeBorder": "#ea7620",
