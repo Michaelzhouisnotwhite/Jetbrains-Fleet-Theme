@@ -55,6 +55,4 @@ Screenshot of python
 
 **Enjoy!**
 
-**NOTE** Thanks to author theme [Fleetish](https://github.com/krfl/fleetish-vscode).
-
 If you have any suggestions, create an issue on <https://github.com/Michaelzhouisnotwhite/fleet-theme>
