@@ -111,6 +111,40 @@
     },
     {
       "scope": [
+        "log.debug"
+      ],
+      "settings": {
+        "foreground": "#efefee",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+        "log.warning"
+      ],
+      "settings": {
+        "foreground": "#f1b254",
+        "fontStyle": ""
+      }
+    },{
+      "scope": [
+        "log.info"
+      ],
+      "settings": {
+        "foreground": "#107b85",
+        "fontStyle": ""
+      }
+    },{
+      "scope": [
+        "log.error"
+      ],
+      "settings": {
+        "foreground": "#c65d5d",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
         "constant.language.false.cpp",
         "constant.language.true.cpp"
       ],
