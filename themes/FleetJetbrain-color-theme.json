@@ -95,6 +95,14 @@
     // "decorator": "#d1d1d1"
   },
   "tokenColors": [
+    {
+      "name": "log info",
+      "scope":"log.info",
+      "settings": {
+        "foreground": "#ff00ff",
+        "fontStyle": ""
+      }
+    },
     //   {
     // 	  "name": "support function powershell",
     // 	  "scope":"support.function.powershell",
